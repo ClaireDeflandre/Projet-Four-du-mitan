@@ -24,8 +24,8 @@ nav{
 }
 
 label.logo{
-    color: white;
-    font-size:35px;
+    color:#1F1F1F;
+    font-size:50px;
     line-height:80px;
     padding: 0 100px;
     font-weight: bold;
@@ -46,17 +46,18 @@ nav ul li{
 }
 
 nav ul li a{
-    color: white;
+    color: #1F1F1F;
     font-size:17px;
+    font-weight: bold;
     padding: 7px 13px;
     border-radius: 3px;
     text-transform: uppercase;
 }
 
 a:hover{
-    background:#f0ffff;
+    background:#1F1F1F;
     transition: .3s;
-    color: #708090;
+    color:#B8B8B8;
 }
 
 /*
